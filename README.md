@@ -1,2 +1,2 @@
 # escapeHTML
-HTML Escape for Telegram bot
+HTML Escape
